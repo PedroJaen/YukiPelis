@@ -134,7 +134,7 @@ public class JSONParser {
                 else{
                     //rellenamos la pelicula
                     String language="&language="+Locale.getDefault().toString();
-                    String query="https://api.themoviedb.org/3/movie/"+tmdbId+"?api_key=e50d63dbcb5c1a6c703ea83cfed8cb7c"+language;
+                    String query="https://api.themoviedb.org/3/movie/"+tmdbId+"?api_key=YOUR APY KEY"+language;
                     Movie movie=fetchMovie(query);
 
                     // Add the new {@link Earthquake} to the list of earthquakes.
