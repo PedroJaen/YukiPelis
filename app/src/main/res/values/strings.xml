@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Yuki Pelis</string>
+    <string name="action_settings">Settings</string>
+    <string name="search">Search</string>
+    <string name="favourites">Favorites</string>
+    <string name="empty">Empty list!</string>
+    <string name="title">Title</string>
+    <string name="aceptar">Ok</string>
+    <string name="noInternet">No Internet Connection</string>
+    <string name="noMovies">No results found</string>
+    <string name="movieSaved">Movie saved</string>
+    <string name="noDescripcion">No overview available</string>
+    <string name="web">Homepage</string>
+    <string name="minutes">minutes</string>
+    <string name="movieFavs">Movie added to favorites</string>
+    <string name="movieDel">Movie deleted from Favorites</string>
+    <string name="noMovieAdded">No movie added to favorites</string>
+    <string name="noFabs">No favorites added</string>
+    <string name="problemAddFavs">Problem adding to favorites</string>
+    <string name="movieUpdated">Movie data updated</string>
+    <string name="noUpdate">Data update not successfull</string>
+    <string name="minRate">Minimum rating</string>
+    <string name="year">Year</string>
+    <string name="genre">Genre</string>
+    <string name="tituloOcampos">By title or fields</string>
+    <string name="fields">Fields</string>
+</resources>

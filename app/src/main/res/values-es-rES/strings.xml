@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Yuki Pelis</string>
+    <string name="search">Buscar</string>
+    <string name="favourites">Favoritos</string>
+    <string name="action_settings">Configuración</string>
+    <string name="empty">Lista vacía!</string>
+    <string name="title">Título</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="noInternet">No hay conexión a internet</string>
+    <string name="noMovies">No hay resultados</string>
+    <string name="movieSaved">Película salvada</string>
+    <string name="noDescripcion">No hay descripción</string>
+    <string name="web">Página web</string>
+    <string name="minutes">minutos</string>
+    <string name="movieFavs">Película añadida a favoritos</string>
+    <string name="movieDel">Película borrada de favoritos</string>
+    <string name="noMovieAdded">Ninguna película añadida a favoritos</string>
+    <string name="noFabs">No hay favoritos añadidos</string>
+    <string name="problemAddFavs">Problema añadiendo a favoritos</string>
+    <string name="movieUpdated">Película actualizada</string>
+    <string name="noUpdate">Actualización de película sin exito</string>
+    <string name="minRate">Valoración mínima</string>
+    <string name="year">Año</string>
+    <string name="genre">Genero</string>
+    <string name="tituloOcampos">Por título o por campos</string>
+    <string name="fields">Campos</string>
+</resources>
