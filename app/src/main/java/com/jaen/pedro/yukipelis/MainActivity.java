@@ -34,8 +34,8 @@ public class MainActivity extends AppCompatActivity implements ListFragment.OnMo
     LinearLayout linearList;
     LinearLayout linearMovie;
 
-    private final String CARTELERAURL="https://api.themoviedb.org/3/movie/now_playing?api_key=e50d63dbcb5c1a6c703ea83cfed8cb7c";
-    private final String GENEROSURL="https://api.themoviedb.org/3/genre/movie/list?api_key=e50d63dbcb5c1a6c703ea83cfed8cb7c";
+    private final String CARTELERAURL="https://api.themoviedb.org/3/movie/now_playing?api_key=YOUR APY KEY";
+    private final String GENEROSURL="https://api.themoviedb.org/3/genre/movie/list?api_key=YOUR APY KEY";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
