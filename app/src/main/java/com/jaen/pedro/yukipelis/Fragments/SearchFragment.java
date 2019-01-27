@@ -147,13 +147,13 @@ public class SearchFragment extends Fragment implements AdapterView.OnItemSelect
                 //para la activity_search
                 //o por titulo
                 if(checkTitulo.isChecked()==true){
-                    base="https://api.themoviedb.org/3/search/movie?api_key=e50d63dbcb5c1a6c703ea83cfed8cb7c";
+                    base="https://api.themoviedb.org/3/search/movie?api_key=YOUR APY KEY";
                     if(titulo.length()!=0){
                         base+="&query="+titulo.getText();
                     }
                 }
                 else{
-                    base="https://api.themoviedb.org/3/discover/movie?api_key=e50d63dbcb5c1a6c703ea83cfed8cb7c";
+                    base="https://api.themoviedb.org/3/discover/movie?api_key=YOUR APY KEY";
                     //o por campos
                     if(checkGenero.isChecked()==true){
                         GetAsynkId asynk=new GetAsynkId();
